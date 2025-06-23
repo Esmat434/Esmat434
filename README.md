@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alex 👋</h1>
+<h1 align="center">Hi there, I'm EsmatUllah 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Python+%7C+Django+Backend+Developer;REST+API+%7C+Celery+%7C+Redis;Dockerized+%7C+Clean+Code+Lover;WebSocket+%7C+Django+Channels;Algorithms+%26+Data+Structures+Fan" alt="Typing SVG" />
 </p>
@@ -55,9 +55,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [alex@example.com](mailto:alex@example.com)
-- 🌐 Website: [https://alex.dev](https://alex.dev)
-- 💼 LinkedIn: [linkedin.com/in/alexdev99](https://linkedin.com/in/alexdev99)
+- 📧 Email: [esmatullahhadel98@gmail.com](mailto:esmatullahhadel98@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/esmatullah-hadel-682161279](https://linkedin.com/in/esmatullah-hadel-682161279)
 
 ---
 
@@ -65,5 +64,4 @@
 
 🚧 *(You can link to your top repositories here later)*  
 ```markdown
-- 🔗 [MyBlog - Django + DRF + Docker](https://github.com/yourusername/MyBlog)
-- 🔗 [Task Manager - Celery + Redis + Channels](https://github.com/yourusername/TaskManager)
+- 🔗 [library-management-system - Django + Docker](https://github.com/Esmat434/library-management-system)
