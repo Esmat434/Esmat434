@@ -84,11 +84,5 @@
 ## 📫 Contact Me
 
 - 📧 Email: esmatullahhadel98@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/esmatullah-hadel-682161279  
-
----
-
-## 🧰 Featured Projects
-
-- 🔗 [Library Management System - Django + Docker](https://github.com/Esmat434/library-management-system)
-- 🔗 *(Add your AI automation/n8n projects here next — highly recommended)*
+- 💼 LinkedIn: https://www.linkedin.com/in/esmatullah-najrabi-682161279
+- 🌐 Website: https://esmatullahdev.pythonanywhere.com
