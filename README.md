@@ -8,81 +8,81 @@
 
 ## 🚀 About Me
 
-🎯 I'm a **Backend Engineer & AI Automation Developer** specializing in **Python, Django, and intelligent workflow automation using n8n**.  
-⚙️ I build **scalable backend systems, REST APIs, and AI-powered automation solutions integrated with real-world business workflows**.  
-🤖 I design and implement **AI-driven automation systems (lead handling, email workflows, CRM integrations, reporting systems)** using **n8n + backend services**.  
-🧠 Strong understanding of **Software Engineering principles (SDLC, system design, testing strategies, database design)**.  
-🐋 I containerize applications using **Docker** and follow **clean architecture & best practices**.  
-💼 Currently open to **freelance clients and remote opportunities** in backend development and automation systems.
+🎯 I'm a **Backend Engineer & AI Automation Expert** specializing in building scalable backend systems, robust REST APIs, and intelligent workflow automations using **Python, Django, and n8n**.  
+
+🧠 **Engineering Philosophy:** I don't just write code; I design solutions. I focus heavily on **System Design, Clean Architecture, advanced Database Modeling Patterns, and rigorous Software Testing methodologies** to ensure long-term stability and high performance.
+
+💼 **For Agencies & Startups:** I help business leaders bridge the gap between complex engineering and operations by automating workflows (Lead handling, CRM integrations, AI content pipelines), saving hundreds of manual hours and optimizing ROI.
 
 ---
 
-## 🧠 What I Do
+## 🛠️ Core Stack & Expertise
 
-- ⚙️ Backend Development with **Django & Django REST Framework**
-- 🔁 Background processing using **Celery & Redis**
-- 🤖 AI Automation systems using **n8n + APIs + Webhooks**
-- 📡 Building **end-to-end workflow automation (Lead → AI processing → Email/CRM response)**
-- 🗄️ Advanced **Database Design & Optimization**
-- 🧪 Writing **tests & building reliable backend systems**
-- 🧱 Applying **SDLC principles in real projects**
-- 🐳 Deploying with **Docker & containerized environments**
-- 🔗 Integrating third-party APIs & automation pipelines
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Core Backend & Architecture</strong><br>
+      • 🐍 Python / Django / Django REST Framework (DRF)<br>
+      • 🧱 Clean Architecture & OOP Principles<br>
+      • 🔁 Async Task Processing (Celery & Redis)<br>
+      • 🧵 Real-time Systems (WebSockets)<br>
+      • 🧪 Testing Strategies (Unit & Integration Testing)
+    </td>
+    <td valign="top" width="50%">
+      <strong>Automation, Data & DevOps</strong><br>
+      • 🤖 AI Workflows & Automation (n8n, Webhooks, APIs)<br>
+      • 🗄️ Advanced Database Design (PostgreSQL, MySQL, Indexing)<br>
+      • 🐋 Containerization & Deployment (Docker, Nginx)<br>
+      • 🔍 Data Structures, Algorithms & Capacity Planning<br>
+      • 🔗 Complex Third-Party API Integrations
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 Core Expertise
+## 📂 Featured Production-Ready Projects
 
-- ⚙️ Django & Django REST Framework (DRF)
-- 🤖 AI Automation Systems (n8n, APIs, Webhooks)
-- 🔁 Celery + Redis Task Processing
-- 🧵 Real-time systems with WebSockets
-- 🗄️ Database Design & Optimization (SQL modeling, indexing)
-- 🧪 Testing strategies (unit & integration testing)
-- 🧱 SDLC (Software Development Life Cycle)
-- 🐋 Dockerized deployments
-- 📡 RESTful API Architecture
-- 🔍 Algorithms, Data Structures & System Design
+### 🛠️ [API Health Monitoring & Incident Alert System](YOUR_REPO_LINK)
+A robust backend system built with system design capacity planning and strict load calculations in mind. It ensures high availability and instant incident notification for enterprise-grade APIs.
+* **Tech Stack:** Django, PostgreSQL, Docker, Redis.
+
+### 🤖 [AI-Driven Lead Flow & Content Automation MVP](YOUR_REPO_LINK)
+An intelligent automation ecosystem designed for agencies to streamline operations. Seamlessly processes incoming leads and generates/analyzes social media content autonomously.
+* **Tech Stack:** Django, n8n, Webhooks, OpenAI APIs.
+
+### 🌐 [Hybrid Architecture Social Media Platform](YOUR_REPO_LINK)
+A dynamic social media network featuring a highly scalable hybrid design, combining Django's MVT pattern with standard RESTful APIs.
+* **Tech Stack:** Python, Django, DRF, MySQL.
 
 ---
 
-## 💼 Services (Freelance / Clients)
+## 🌿 Open Source Contributions
+I actively contribute to the open-source ecosystem to sharpen my engineering skills and maintain industry-standard code quality:
+* **Wagtail CMS:** Code optimization and feature enhancements.
+* **django-taggit:** Architecture analysis and backend optimization.
 
-💡 I help businesses automate and scale their workflows:
+---
 
-- 🔹 AI-powered lead processing systems
-- 🔹 n8n workflow automation (email, CRM, reporting)
-- 🔹 Backend API development (Django/DRF)
-- 🔹 Business process automation tools
-- 🔹 Database design & optimization
-- 🔹 Custom backend systems for startups
+## 💼 Services For Agencies & Clients
+
+💡 If you are looking to scale your infrastructure or automate your operations, I offer:
+- **Custom Backend & API Development:** Secure, scalable, and fast web services.
+- **AI-Powered Workflow Automation:** Tailored n8n pipelines for CRM, Lead Capture, and Reporting.
+- **Database Optimization:** Query tuning, schema restructuring, and index optimization.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexdev99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect & Build Something Great
 
-- 📧 Email: hadelesmatullah@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/esmatullah-najrabi-682161279
-- 🌐 Website: https://esmatullahdev.pythonanywhere.com
+- 🌐 **Portfolio & Services:** [codenova.codes](https://codenova.codes)
+- 💼 **LinkedIn:** [Esmatullah Najrabi](https://www.linkedin.com/in/esmatullah-najrabi-682161279)
+- 📧 **Email:** hadelesmatullah@gmail.com
